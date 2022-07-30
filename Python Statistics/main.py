@@ -42,6 +42,9 @@ def stddev(dataset, n):
   return math.sqrt(sum1 / n)
 print("Standard deviation: " + str(stddev(dataset, n)) + "\n")
 
+#Calculate variance:
+print("Variance: " + str(a ** 2) + "\n")
+
 #Calculate max:
 def max(dataset, n):
   return dataset_sorted[n-1]
