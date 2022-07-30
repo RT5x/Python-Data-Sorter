@@ -1,1 +1,1 @@
-This section calculates mean, mode, median, standard deviation, range, max, and min values for any given data set input.
+This section calculates mean, mode, median, standard deviation, range, max, and min values for any given data set input without using the Python statistics library.
