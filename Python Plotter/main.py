@@ -10,3 +10,5 @@ plt.xlabel("x")
 plt.ylabel("y")
 plt.title("X effect on Y")
 plt.show()
+
+# Create 2D graph with x and y axis
